@@ -1,0 +1,18 @@
+.container{
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: tan;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+h1{
+    background-color:indianred;
+}
+h2{
+    background-color: indianred;
+}
